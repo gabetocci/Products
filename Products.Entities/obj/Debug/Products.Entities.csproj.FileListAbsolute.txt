@@ -1,0 +1,4 @@
+c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Entities\bin\Debug\Products.Entities.dll
+c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Entities\bin\Debug\Products.Entities.pdb
+c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Entities\obj\Debug\Products.Entities.dll
+c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Entities\obj\Debug\Products.Entities.pdb

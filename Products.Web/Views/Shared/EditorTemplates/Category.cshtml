@@ -1,0 +1,10 @@
+﻿
+@using Products.Entities;
+@using Products.Web.Helpers;
+
+@{
+    var num = (int?)Model;
+    var items = typeof(Category).GetItems(num);
+}
+
+@Html.DropDownList("", items)
