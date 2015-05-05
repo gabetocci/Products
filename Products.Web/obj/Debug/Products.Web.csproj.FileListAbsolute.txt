@@ -57,3 +57,16 @@ c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Web\obj\
 c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Web\obj\Debug\Products.Web.DataContexts.IdentityMigrations.InitialCreate.resources
 c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Web\obj\Debug\Products.Web.csproj.GenerateResource.Cache
 c:\users\toccig\documents\visual studio 2012\Projects\Products\Products.Web\obj\Debug\Products.Web.DataContexts.ProductMigrations.InitialCreate.resources
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Glimpse.Ado.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Glimpse.AspNet.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Glimpse.Core.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Glimpse.EF6.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Glimpse.Mvc5.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\obj\Debug\Products.Web.DataContexts.ProductMigrations.DefaultSchema.resources
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\obj\Debug\Products.Web.DataContexts.IdentityMigrations.DefaultSchema.resources
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\toccig\Documents\Visual Studio 2012\Projects\Products\Products.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml

@@ -3,10 +3,10 @@
 @using Products.Entities;
 @using Products.Web.Helpers;
 
-@{
-
-  var name = typeof(Category).GetName(Model.ToString()); 
-                    
-  @name.ToString();
-   
+@{    
+    
+  var name = typeof(Category).GetName(Model.ToString());
+  
 } 
+
+@name
