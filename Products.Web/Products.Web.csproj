@@ -180,7 +180,13 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Site.css" />
+    <Content Include="Content\site.css" />
+    <Content Include="Content\Style.css">
+      <DependentUpon>Style.less</DependentUpon>
+    </Content>
+    <Content Include="Content\Style.min.css">
+      <DependentUpon>Style.less</DependentUpon>
+    </Content>
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -188,6 +194,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Content\Style.less" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -206,7 +213,6 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="temp\snippets.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -218,8 +224,6 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductsAsync.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
-    <Compile Include="Counters\PerfCounterService.cs" />
-    <Compile Include="Counters\PerfCounterWrapper.cs" />
     <Compile Include="DataContexts\IdentityDb.cs" />
     <Compile Include="DataContexts\IdentityMigrations\201505011759407_InitialCreate.cs" />
     <Compile Include="DataContexts\IdentityMigrations\201505011759407_InitialCreate.Designer.cs">

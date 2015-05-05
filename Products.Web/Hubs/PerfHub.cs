@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 using Microsoft.AspNet.SignalR;
-using Products.Web.Counters;
 
 namespace Products.Web.Hubs
 {

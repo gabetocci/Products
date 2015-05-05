@@ -1,3 +1,0 @@
-﻿// DDL changes
-add-migration -ConfigurationTypeName Products.Web.DataContexts.ProductMigrations "DefaultSchema"
-update-database -ConfigurationTypeName Products.Web.DataContexts.ProductMigrations.Configuration
